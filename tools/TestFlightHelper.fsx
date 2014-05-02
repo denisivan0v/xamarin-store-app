@@ -1,6 +1,6 @@
 module Fake.TestFlightHelper
 
-#I "FAKE/tools"
+#I "../packages/FAKE.2.15.4/tools"
 #r "FakeLib.dll"
 
 #nowarn "20"

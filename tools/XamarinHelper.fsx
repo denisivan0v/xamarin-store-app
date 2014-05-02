@@ -1,5 +1,8 @@
 module Fake.XamarinHelper
 
+#I "../packages/FAKE.2.15.4/tools"
+#r "FakeLib.dll"
+
 open System
 open System.IO
 
